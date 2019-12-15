@@ -1,0 +1,9 @@
+<h2>add developer</h2>
+
+
+<%= form_for @job do |f| %>
+  <%= f.label :developer %>
+  <%= f.collection_select :developer_id, @developers, :id, :name %><br />
+  <%= f.hidden_field :project_id, value: @project.id %>
+  <%= f.submit "add developer" %>
+<% end %>

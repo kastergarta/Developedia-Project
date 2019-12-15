@@ -1,0 +1,100 @@
+// Place all the styles related to the Users controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.main {
+  background-image: url(https://i.pinimg.com/originals/b7/46/43/b74643cbbe7d68c54554544ec50cf999.jpg);
+  background-size: cover;
+  filter: blur();
+}
+
+.box {
+  background-color: grey;
+  padding: 5px;
+  height: 680px;
+  width: 300px;
+  text-align: center;
+  margin: 5px auto;
+  overflow-y: scroll;
+}
+
+.main2 {
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+
+.gradient {
+  background-image: linear-gradient(to bottom right, purple, yellow);
+  height: 700px;
+  width: 50%;
+  background-color: green;
+  border: 1px solid white;
+}
+
+.picture {
+  background-image: url(https://i.pinimg.com/originals/e2/a1/71/e2a171ac91a1435c76a839b1510473c5.gif),
+  url(https://data.whicdn.com/images/202020054/original.gif);
+  background-repeat: no-repeat;
+  background-blend-mode: overlay;
+  height: 700px;
+  width: 50%;
+  background-color: pink;
+  background-size: cover;
+}
+
+.loginbox_root {
+  background-color: purple;
+  padding: 70px 50px;
+  height: 300px;
+  width: 300px;
+  text-align: center;
+  margin: 180px auto 100px;
+  border: 1px solid white;
+  border-radius: 25px;
+  text-shadow: 2px 2px 8px #FF0000;
+}
+
+h1, h3 {
+  color: white;
+}
+
+.loginbox_register {
+  background-color: purple;
+  padding: 5px 50px;
+  height: 300px;
+  width: 300px;
+  text-align: center;
+  margin: 180px auto 100px;
+  border: 2px solid white;
+  border-radius: 25px;
+  text-shadow: 2px 2px 8px #FF0000;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.test {
+  align-items: center;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
