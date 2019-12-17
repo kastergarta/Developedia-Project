@@ -61,7 +61,7 @@
 
 
           <img src="<%= developer.img_url %>" alt="">
-          <div>
+          </div>
         <% end %>
 
         <button type="button" class="btn btn-warning">
@@ -78,14 +78,12 @@
               <input type="submit" value="Add Developer">
           </form>
     <% end %>
-      <div>
+    <button type="button" class="btn btn-warning"><%= button_to "Delete this project", project_path(@project), method: :delete %></button><br>
+    <br>
+
+    <button type="button" class="btn btn-warning"><%= link_to "All your projects", projects_path %></button><br>
+      </div>
     </div>
   </div>
 </body>
 </html>
-<br>
-
-<button type="button" class="btn btn-warning"><%= button_to "Delete this project", project_path(@project), method: :delete %></button><br>
-<br>
-
-<button type="button" class="btn btn-warning"><%= link_to "All your projects", projects_path %></button><br>

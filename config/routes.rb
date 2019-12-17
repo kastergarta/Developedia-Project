@@ -11,12 +11,11 @@ Rails.application.routes.draw do
   get "/register", to: 'users#new', as: "register"
   delete '/remove_developer/:developer_id/:project_id', to: 'projects#remove_developer', as: :remove_developer
 
-    resources :reviews
+  resources :reviews
   resources :skillsets
   resources :jobs
   resources :skills
   resources :users
   resources :developers
   resources :projects
-  # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
 end
