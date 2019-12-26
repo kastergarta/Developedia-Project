@@ -1,5 +1,7 @@
 ## Developedia `Updated 12.25.2019` [VIDEO](https://youtu.be/9RpBgMKWtDw)
 
+Developedia app gives you the power to find the right developer (with right tech skills) for your project in minutes. We have a full user authentication and all the functionality to create a new project inside an app, find a developer, check his/her skills, hire, see the budget and write a review. 
+
 ### `Goals of this project`
 
 1. Master Ruby on Rails skills (MVC, Serializer, Auth).
@@ -22,6 +24,6 @@
 
 ### `Thanks`
 
-Special thanks to my partner on this project - [Emmanuel Owusu](https://github.com/emanovic7).
+Special thanks to my project partner - [Emmanuel Owusu](https://github.com/emanovic7).
 
 Thank you [Annie Souza](https://github.com/luanesouza), [Randy Herasme](https://github.com/randyher) for support, professionalism and patience. Thank you for seeing me and every student as a partner in learning and sharing.
