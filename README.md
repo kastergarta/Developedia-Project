@@ -1,4 +1,4 @@
-## Developedia `Updated 12.23.2019` [VIDEO](https://youtu.be/9RpBgMKWtDw)
+## Developedia `Updated 12.25.2019` [VIDEO](https://youtu.be/9RpBgMKWtDw)
 
 ### `Goals of this project`
 
@@ -16,6 +16,7 @@
 2. Rails part built on top of PostgreSQL.
 
 ![Developedia Demo](./public/Developedia_wellcome_screen.png)
+![Developedia Demo2](./public/Developedia_project_page.png)
 
 ### ` What you can do on the Developedia page?`
 
