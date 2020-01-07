@@ -1,6 +1,6 @@
-## Developedia `Updated 12.25.2019` [VIDEO](https://youtu.be/9RpBgMKWtDw)
+## Developedia `Updated 12.25.2019` [VIDEO](https://youtu.be/9RpBgMKWtDw) [LIVE DEMO - Heroku](https://developedia-app.herokuapp.com/)
 
-Developedia app gives you the power to find the right developer (with right tech skills) for your project in minutes. We have a full user authentication and all the functionality to create a new project inside an app, find a developer, check his/her skills, hire, see the budget and write a review. 
+Developedia app gives you the power to find the right developer (with right tech skills) for your project in minutes. We have a full user authentication and all the functionality to create a new project inside an app, find a developer, check his/her skills, hire, see the budget and write a review.
 
 ### `Goals of this project`
 
